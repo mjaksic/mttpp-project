@@ -11,3 +11,5 @@ signInValid - provjera logiranja s postojecim racunom
 signOut - odjavljivanje  
 signUp - kreiranje novog računa  
 passwordLessThan8 - duljina sifre manja od 8  
+  
+![alt text](https://i.ibb.co/P5wSjKC/Screenshot.png)
