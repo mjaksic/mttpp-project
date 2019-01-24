@@ -4,9 +4,9 @@ Nacin izrade projekta :  Intellij->Maven, uredivanje pom.xml datoteke. Nakon sto
 
 Izrađeni testovi :
 
-signInSQLInject - logiranje pokušajem SQL Injectiona s validnim e-mailom.
-signInPasswordNone - logiranje bez utipkavanja passworda
-signInValid - provjera logiranja s postojecim racunom
-signOut - odjavljivanje
-signUp - kreiranje novog računa
-passwordLessThan8 - duljina sifre manja od 8
+signInSQLInject - logiranje pokušajem SQL Injectiona s validnim e-mailom  
+signInPasswordNone - logiranje bez utipkavanja passworda  
+signInValid - provjera logiranja s postojecim racunom  
+signOut - odjavljivanje  
+signUp - kreiranje novog računa  
+passwordLessThan8 - duljina sifre manja od 8  
